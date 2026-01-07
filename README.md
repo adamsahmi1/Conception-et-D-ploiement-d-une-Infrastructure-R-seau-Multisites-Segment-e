@@ -30,7 +30,7 @@ L'infrastructure est divisée en trois zones :
 2.  **Sites Distants :** Deux sites annexes gérés par les routeurs R2 et R3.
 3.  **Liaisons WAN :** Connexions série point-à-point.
 
-*(Insérez ici une capture d'écran de votre topologie Packet Tracer, par exemple : `![Topologie Réseau](images/topologie.png)`) - Optionnel*
+*(Insérez ici une capture d'écran de votre topologie Packet Tracer, par exemple : `![Topologie Réseau](topologie.png) Optionnel*
 
 ## 📊 Plan d'Adressage et VLANs
 
