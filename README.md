@@ -1,6 +1,6 @@
 # Conception et Déploiement d’une Infrastructure Réseau Multisites Segmentée
 
-**Auteur :** Adam SAKHRI  
+**Auteur :** Adam SAHMI  
 **Encadrant :** Prof. Azeddine KHIAT  
 **Module :** Réseaux Informatiques  
 **Outil :** Cisco Packet Tracer
